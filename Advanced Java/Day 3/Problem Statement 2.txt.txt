@@ -1,0 +1,15 @@
+Table for Books
+
+
+create table Books(Book_Id int Primary Key , Book_Name varchar(1000) , Author varchar(250), Price float(9,2));
+
+
+Table for Order_Details
+
+create table Order_Details(Order_Id int,Cust_Name varchar(20), Phone_No varchar(10) , Address varchar(40), Order_Date date , Quantity int);
+
+
+Table for Users
+
+
+create table Users(first_name varchar(20) , address varchar(30) , email varchar(20) , user_name varchar(20) , password varchar(20) , registration_date date);

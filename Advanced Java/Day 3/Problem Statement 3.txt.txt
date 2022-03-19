@@ -1,0 +1,39 @@
+Data in Books Table
+
+
+INSERT INTO  Books values(1,"Let us C" , "Yashvant p. Kanetkar" , 200.00);
+INSERT INTO  Books values(2,"Thinking in Java" , "Thinking in Java" , 300.00);
+INSERT INTO  Books values(3,"Computer Networking" , "James F. Kurose" , 250.00);
+INSERT INTO  Books values(4,"Head First C#" , "Andre Stellman" , 400.00);
+INSERT INTO  Books values(5,"What is HTML5" , "Brett McLaughlin" , 300.00);
+INSERT INTO  Books values(6,"HTML5 in Action" , "Joe Lennon" , 569.00);
+INSERT INTO  Books values(7,"OOP with C++" , "Balagurusamy" , 308.00);
+INSERT INTO  Books values(8,"C++ : The Complete Reference" , "Herbert Schildt" , 532.00);
+INSERT INTO  Books values(9,"Head Firs SQL" , "Lynn Beighley" , 450.00);
+INSERT INTO  Books values(10,"SQL:The Complete Reference" , "James Groff" , 667.00);
+
+
+
+
+Data in Order_Details Table
+
+
+insert into Order_Details values(1,"Amit","6457866221","Radhika Vihar",'2022-03-18',3);
+insert into Order_Details values(2,"Mona","2486475321","Rakshak Nagar",'2022-03-18',3);
+insert into Order_Details values(3,"Kavi","2486464865","Rakshak Nagar Gold",'2022-03-18',2);
+insert into Order_Details values(4,"Monalisa","9784464865","Banglore",'2022-03-18',3);
+insert into Order_Details values(5,"Amol","6483164865","Wadganosheri",'2022-03-18',3);
+insert into Order_Details values(6,"Amit","9783164865","Banglore",'2022-03-18',2);
+
+
+
+
+
+Data in Users Table
+
+
+insert into Users values("Amit","Wagholi","amit.mishra369@gmail.com","9465128756","mona9Dutta",'2022-03-18');
+insert into Users values("Hari","Chandan Nagar","harii@rediff.com","8865128756","Adam99@",'2022-03-18');
+insert into Users values("Monalisa","Raksha Nagar","Mona@rediff.com","7765128756","pinka@12",'2022-03-18');
+insert into Users values("Narendra","Rajpath","narendra@gamil.com","9165128756","Narendra@123",'2022-03-18');
+insert into Users values("Kavita","Rakshak Nagar Gold","kavita135@gamil.com","8965128756","kavita12@34",'2022-03-18');
